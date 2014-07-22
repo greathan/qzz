@@ -1,0 +1,29 @@
+{
+  "name": "qserver",
+  "version": "1.2.0",
+  "author": "hiver.yan <han.yan@qunar.com>",
+  "main": "./lib/qserver",
+  "bin": {
+    "hosts": "./lib/hostAdmin/main.js",
+    "qzz": "bin/qzz"
+  },
+  "dependencies": {
+    "node.extend": "1.0.x",
+    "jqtpl": "1.1.x",
+	  "handlebars": "2.0.x",
+	  "connect": "1.8.x",
+    "optimist": "0.6.x",
+    "async": "0.9.x",
+    "hogan.js": "2.0.x",
+    "mkdirp": "0.3.x",
+    "uglify-js": "2.x.x",
+    "temp": "0.4.x",
+    "iconv-lite": "0.2.x",
+    "fs-extra" : "0.1.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {},
+  "description": "QZZ TOOLS"
+}

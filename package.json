@@ -2,7 +2,7 @@
   "name": "qzz",
   "version": "1.2.0",
   "author": "Great Han <hwlyglove@gmail.com>",
-  "repository": "",
+  "repository": "git@github.com:greathan/qzz.git",
   "main": "./bin/qzz",
   "bin": {
     "hosts": "./lib/hostAdmin/main.js",

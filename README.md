@@ -1,5 +1,8 @@
-cd to/your/qzz/folder # 只需要第一次
 
-node path/to/lib/qserver.js
+qzz server -p xxx -c
 
--p 指定端口 -r reset 根目录
+qzz pack
+
+qzz sync
+
+qzz x

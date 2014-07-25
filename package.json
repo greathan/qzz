@@ -20,7 +20,8 @@
     "temp": "0.4.x",
     "iconv-lite": "0.2.x",
     "fs-extra" : "0.1.1",
-    "colors": "0.6.x"
+    "colors": "0.6.x",
+    "js-yaml": "3.x.x"
   },
   "engines": {
     "node": ">=0.10.0"

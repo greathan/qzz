@@ -2,12 +2,11 @@
   "name": "qzz",
   "version": "1.2.0",
   "author": "Great Han <hwlyglove@gmail.com>",
-  "repository": "git@github.com:greathan/qzz.git",
-  "main": "./bin/qzz",
-  "bin": {
-    "hosts": "./lib/hostAdmin/main.js",
-    "qzz": "bin/qzz"
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:greathan/qzz.git"
   },
+  "bin": "./bin/qzz",
   "dependencies": {
     "node.extend": "1.0.x",
     "jqtpl": "1.1.x",

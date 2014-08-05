@@ -1,0 +1,24 @@
+
+{
+	"work": "",
+	"pack_output": false,
+	"pack_list": [
+	    "/international/lazy/side_vata-srclist.js",
+	    "/international/lazy/searchbox-srclist.js",
+	    "/international/lazy/flight_recommend-srclist.js",
+	    "/international/lazy/history-srclist.js",
+	    "/international/multi_list_ads-srclist.js"
+	],
+	"default_port": 80,
+	"server_domain": "qunarzz.com",
+	"version_file": ".ver",
+	"protocol": "http",
+	"prd": "59.151.16.185",
+	"dev": "192.168.237.71",
+	"test": "192.168.0.143",
+	"routers": {
+		"flight": "local",
+		"flight_tts": "prd"
+	}
+
+}
